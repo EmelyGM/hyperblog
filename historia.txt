@@ -1,1 +1,5 @@
-Este es un archivo solo de texto desde el code
+Soy Emely Gabriela 
+
+Este es un archivo de texto para el curso de Git y GitHub
+
+By Platzi
